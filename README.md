@@ -18,7 +18,7 @@ E-Doko is a web-based e-commerce platform that facilitates the buying and sellin
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository.git](https://github.com/Paribartan-Timalsina/E-DOKO-fullstack.git
+   git clone https://github.com/Paribartan-Timalsina/E-DOKO-fullstack.git
    ```
 2. Install dependencies:
    ```sh
